@@ -1,0 +1,6 @@
+train_path: "data/train.csv"
+test_path: "data/test.csv"
+reports_path: "reports/result.csv"
+max_models: 100
+max_runtime_secs: 600
+seed: 22
